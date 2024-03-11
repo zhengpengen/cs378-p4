@@ -1,0 +1,21 @@
+
+.container{
+    padding: 10px;
+}
+.weather-buttons{
+    display: flex;
+}
+
+.weather-button{
+    /* display: inline-block; */
+    /* flex: 1; */
+    width: 100%;
+}
+
+.searc{
+    display: flex;
+}
+
+.search-bar{
+    width: 100%;
+}
